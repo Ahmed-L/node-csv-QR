@@ -1,0 +1,23 @@
+{
+  "name": "csv-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed_1901",
+  "license": "ISC",
+  "dependencies": {
+    "autodetect-decoder-stream": "^2.0.2",
+    "csv-parse": "^5.3.10",
+    "csv-parser": "^3.0.0",
+    "csv-reader": "^1.0.12",
+    "dataframe-js": "^1.4.4",
+    "fast-csv": "^4.3.6",
+    "fs": "^0.0.1-security",
+    "parse": "^4.1.0",
+    "qrcode": "^1.5.3",
+    "qrcodejs": "github:danielgjackson/qrcodejs"
+  }
+}
